@@ -7,8 +7,8 @@ The Boards used for this project are STM32F407 and FRDM-k64F and the LCDs used a
 # Hardware and Software used
 
 The hardware used is in images below and the software used is Keil uVision 5
-
-|![alt text](https://images-na.ssl-images-amazon.com/images/I/51jy8enJluL._SX425_.jpg)|![alt text](https://5.imimg.com/data5/BR/QM/MY-9380557/nokia-5110-lcd-module-500x500.jpg)|
+| [![JHD162a](https://images-na.ssl-images-amazon.com/images/I/51jy8enJluL._SX425_.jpg)] |[![Nokia 5110](https://5.imimg.com/data5/BR/QM/MY-9380557/nokia-5110-lcd-module-500x500.jpg)]|
+|:---:|:---:|:---:|
  
  
 ![alt text](https://uge-one.com/image/cache/catalog/catalog/0%20UGE%20STM32F4%20DISCOVERY-1-500x375.jpg)
