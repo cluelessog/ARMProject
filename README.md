@@ -22,10 +22,8 @@ The hardware used is in images below and the software used is Keil uVision 5
 
 <br clear="all" />
 
-# Setup
-
-
-
+# Hardware Setup
+<img align="left" src="https://github.com/sourabhkumar0308/ARMProject/blob/master/Images/hwsetup.JPG">
 
 # Failures
 We could not get the 16x2 LCD working for the FRDM-K64F Board inspite of thorough debugging. The reason for it to not work is still unknown. Due to this failure we tried the NOKIA 5110 LCD on STM32F407 and there were issues with the setting on bits on the SPI registers.
