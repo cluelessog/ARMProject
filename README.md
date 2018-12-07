@@ -14,3 +14,5 @@ The hardware used is in images below and the software used is Keil uVision 5
 <img align="left" width="300" height="300" src="https://uge-one.com/image/cache/catalog/catalog/0%20UGE%20STM32F4%20DISCOVERY-1-500x375.jpg">
 <img align="right" width="300" height="300" src="https://www.nxp.com/assets/images/en/dev-board-image/FRDM-K64F-ANGLE.jpg">  
 
+# Timing Diagram 
+
