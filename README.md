@@ -17,4 +17,4 @@ The hardware used is in images below and the software used is Keil uVision 5
 # JHD162A features and Timing Diagram
 
 <img align="left" src="https://github.com/sourabhkumar0308/ARMProject/blob/master/Images/lcd%20features.png">
-<img align="right" src="https://github.com/sourabhkumar0308/ARMProject/blob/master/Images/timing%20diagram.jpg">  
+<img align="left" src="https://github.com/sourabhkumar0308/ARMProject/blob/master/Images/timing%20diagram.jpg">  
