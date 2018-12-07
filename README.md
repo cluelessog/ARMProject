@@ -15,6 +15,7 @@ The hardware used is in images below and the software used is Keil uVision 5
 <img align="right" width="400" height="400" src="https://www.nxp.com/assets/images/en/dev-board-image/FRDM-K64F-ANGLE.jpg">  
 
 <br clear="all" />
-# Hardware and Software used
+
+# Features and Timing Diagram
 <img align="left" src="https://github.com/sourabhkumar0308/ARMProject/blob/master/Images/lcd%20features.png">
 <img align="left" src="https://github.com/sourabhkumar0308/ARMProject/blob/master/Images/timing%20diagram.jpg">  
